@@ -5,7 +5,7 @@
    Frontend controller
    ========================================= */
 
-const API_URL = "http://127.0.0.1:5000/api/divide";
+https://signed-division-4.onrender.com/api/divide
 
 const $ = (id) => document.getElementById(id);
 
